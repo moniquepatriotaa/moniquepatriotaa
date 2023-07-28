@@ -6,8 +6,8 @@ Olá! Sou uma profissional da área de Tecnologia da Informação (TI) com uma p
 
 
 
-
-Instagram Pessoal: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moniquepatriotaa)
+Instagram Pessoal:
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moniquepatriotaa)
 
 Tecnoligias que utilizo no dia a dia:
 
