@@ -1,6 +1,7 @@
 Olá! Sou uma profissional da área de Tecnologia da Informação (TI) com uma paixão pela construção e implementação de projetos. Atualmente, estou cursando graduação em Sistemas de Informação, buscando expandir meus conhecimentos e habilidades nesse campo dinâmico.
 
 
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquepatriotaa&show_icons=true&theme=dracula&count_private=true)
 
 
 
