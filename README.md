@@ -2,8 +2,6 @@ Olá! Sou uma profissional da área de Tecnologia da Informação (TI) com uma p
 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquepatriotaa&show_icons=true&theme=dracula&count_private=true)
-
 
 
 
