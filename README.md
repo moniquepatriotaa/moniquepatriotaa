@@ -6,7 +6,7 @@ Olá! Sou uma profissional da área de Tecnologia da Informação (TI) com uma p
 
 
  [![Instagram pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moniquepatriotaa)
-
+ <a href="https://linkedin.com/in/enis-monique-5a8385132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 <div style="display: inline_block"><br>
