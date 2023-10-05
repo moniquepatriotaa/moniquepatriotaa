@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<h2 align="left">Olá!!</h2>
 
 <h3 align="left">Sou uma profissional da área de Tecnologia da Informação (TI) com uma paixão pela construção e implementação de projetos. Atualmente, estou cursando graduação em Sistemas de Informação, buscando expandir meus conhecimentos e habilidades nesse campo dinâmico.</h3>
 
